@@ -1,5 +1,8 @@
-# __James Litherland__
+__James Litherland__
+jamlith@gmail.com
+
 ---
+
 ### _2017 Portfolio_ ([githubpages.io](https://portfolio-2017.githubpages.io/)):
 This is a collection of the work that I have done using many different languages and frameworks, most of it being assignments I completed while
 attending a coding bootcamp through George Washington University, which I
@@ -11,5 +14,13 @@ I also changed some of the terminology and language I was stuck using due to the
 
 ---
 ### Included projects:
-* Portfolio-2017
-<p>ducksauce</p> 
+* <u><strong>Portfolio-2017</strong></u>
+    * _A simple website inteded to be an introduction to my personal style, it is a portal to the projects I have been involved with in 2017._
+    <BR>__Technologies used include:__ Material
+* <u><strong>RPS w/ friends</strong></u> ([Live Demo](https://jamlith.github.io/rps-mp/)) ([GitHub Repo](https://github.com/jamlith/rps-mp))
+    * _Born from an assignment I completed as homework for the coding bootcamp I recently graduated from, it is a rock, paper, scissors game for 2 remote players.  I chose to include it as it showcases my ability to problem solve, as I stretched the abilities of Google's firebase, using it to share data between users in real time.  Technologies used include:_ 
+    <BR>__Technologies used include:__  Bootstrap 3, jQuery 3.2.1, Google FireBase, and CSS3 Animation.
+* <u><strong>Giphy Retriever</strong></u> ([Live Demo](https://jamlith.github.io/giphy-hw/)) ([GitHub Repo](https://github.com/jamlith/giphy-hw/)) 
+    * _Another assignment for the coding bootcamp, this project is an excercise in interfacing with a 3rd party API, doing so with AJAX in real time and dynamically creating elements to display the results._  
+    __Technologies used include:__ Bootstrap 3, jQuery 3.2.1, Giphy's API interface, and CSS3.
+    
